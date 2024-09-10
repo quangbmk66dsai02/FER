@@ -31,7 +31,7 @@ If you have any trouble during the installation process, please contact: quangbm
     4. You need to make sure that the dataset is in the correct directory.
     5. You are ready to run the code
 
-# 3. Pretrained Model for Prediction (Fast - No training required)
+# 3. Pretrained Model for Inference (Fast - No training required)
     1. Open notebook "test_model.ipynb" in Jupyter Notebook.
     2. Put the processed image in the "extra-sample" folder.
     3. Change the directory to your in desired image in the "Importing test image" section.
