@@ -7,6 +7,7 @@ Our final project codes are in the form of notebooks with Python Language. There
 
 Dataset:
 https://drive.google.com/drive/folders/17Le8PRI5rvKkhVdwx-4Y-BToGFFjlsW-?usp=drive_link
+
 Note that due to the large size of the dataset, we cannot upload it with our code. This dataset is needed when you run the JupyterNotebook Version (not necessary for the Kaggle version).
 After downloaded and extracted, your dataset directory should look like this:
 
@@ -14,6 +15,7 @@ After downloaded and extracted, your dataset directory should look like this:
 
 Model checkpoint:
 https://drive.google.com/file/d/1I35PxH7E_mH6eFNQu4y42qXml-f21q4S/view?usp=drive_link
+
 After downloaded and extracted, your dataset directory should look like this:
 
    FER\code\model.h5
