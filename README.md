@@ -1,16 +1,22 @@
 
 # A. Installation Guide
 
+Another complete source for this repo can be found here: https://drive.google.com/drive/folders/1fBPgyxsEUU0lMHbHyn4MsJqOMOSaTsvI?usp=sharing
+
 Our final project codes are in the form of notebooks with Python Language. There are 2 main ways to run them: Jupyter Notebook or Kaggle. We highly recommend you  run it on Kaggle to utilize Kaggle GPU for much faster training. In this guide, there are 2 sections for Kaggle version and Jupyter Notebook version respectively. Also, there is a version of code which imports already-trained model for just testing only.
 
 Dataset:
 https://drive.google.com/drive/folders/17Le8PRI5rvKkhVdwx-4Y-BToGFFjlsW-?usp=drive_link
-
 Note that due to the large size of the dataset, we cannot upload it with our code. This dataset is needed when you run the JupyterNotebook Version (not necessary for the Kaggle version).
-
 After downloaded and extracted, your dataset directory should look like this:
 
-   FER\fer-2013\fer2013\fer2013.csv.
+   FER\fer-2013\fer2013\fer2013.csv
+
+Model checkpoint:
+https://drive.google.com/file/d/1I35PxH7E_mH6eFNQu4y42qXml-f21q4S/view?usp=drive_link
+After downloaded and extracted, your dataset directory should look like this:
+
+   FER\code\model.h5
 
 If you have any trouble during the installation process, please contact: quangbm1812@gmail.com
 # 1. Kaggle version
